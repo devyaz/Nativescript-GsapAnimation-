@@ -1,7 +1,10 @@
 # Nativescipt-GsapAnimation-
 Easily Chain Animations in {N}ativescript
 using the Greensock Animation Platform https://greensock.com
-clone this repo and start animating!!
+clone this repo run 'tns install'
+'tns platform add android '
+or 'tns platform add ios'
+and start animating!!
 then call any {N} animation directly like  translateX,translateY,opacity ...
 first do 'npm i greensock'
 or use Sidekick to install 
