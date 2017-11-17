@@ -12,4 +12,5 @@
         <Label text="Supermarkets" fontSize="18" textWrap="true"  ></Label>
       </StackLayout>
     </StackLayout>
+   </StackLayout>
 </Page>
