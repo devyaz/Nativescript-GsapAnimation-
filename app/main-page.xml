@@ -12,5 +12,11 @@
         <Label text="Supermarkets" fontSize="18" textWrap="true"  ></Label>
       </StackLayout>
     </StackLayout>
+    <StackLayout class=" card round" id="foo"  >
+    <Image src="~/res/food.jpg" class="round" ></Image>
+    <StackLayout  id="text" class=" center round">
+      <Label text="Watch the card above ME ANIMATE!!" fontSize="22" textWrap="true" class="light-green"  ></Label>
+    </StackLayout>
+  </StackLayout>
    </StackLayout>
 </Page>
