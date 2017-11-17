@@ -1,10 +1,10 @@
 <Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="onNavigatingTo" class="page">
     <Page.actionBar>
-        <ActionBar title="My App" icon="" class="action-bar">
+        <ActionBar title="Gsap Animations" icon="" class="action-bar">
         </ActionBar>
     </Page.actionBar>
 
-    <StackLayout class="p-20">
+    <StackLayout class="p-20 khaki">
       <StackLayout class=" card round" id="food" tap="markerz">
       <Image src="~/res/food.jpg" class="round" ></Image>
       <StackLayout  id="text" class=" center ">
