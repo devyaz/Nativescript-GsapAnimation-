@@ -1,21 +1,39 @@
-﻿/*
-In NativeScript, the app.css file is where you place CSS rules that
-you would like to apply to your entire application. Check out
-http://docs.nativescript.org/ui/styling for a full list of the CSS
-selectors and properties you can use to style UI components.
-
-/*
-In many cases you may want to use the NativeScript core theme instead
-of writing your own CSS rules. For a full list of class names in the theme
-refer to http://docs.nativescript.org/ui/theme. 
-The imported CSS rules must precede all other types of rules.
-*/
-@import 'nativescript-theme-core/css/core.light.css';
-
-/*
-The following CSS rule changes the font size of all UI
-components that have the btn class name.
-*/
-.btn {
-    font-size: 18;
-}
+.card{box-shadow:0 8px 16px 0 ;margin: 5;background-color: white}
+.padding{padding-top:8px; padding-bottom:50px}
+.blue{color:#fff;background-color:#2196F3}
+.red{color:#fff;background-color:#f44336}
+.grey{color:#000;background-color:#9e9e9e}
+.light-grey{color:#000;background-color:#989696}
+.dark-grey{color: black;background-color: #424141}
+.round{border-radius:8px}
+.green{color:#fff;background-color:#4CAF50}
+.white{color:#000;background-color:#fff}
+.yellow{color:#000;background-color:#ffeb3b}
+.sand{color:#000;background-color:#fdf5e6}
+.center{text-align:center}
+.circle{border-radius:50%}
+.left{float:left}
+.right{float:right}
+.transparent{background-color:transparent}
+.black{color: white; background-color: black}
+.amber{color:#000;background-color:#ffc107}
+.aqua{color:#000;background-color:#00ffff}
+.light-blue{color:#000;background-color:#87CEEB}
+.brown{color:#fff;background-color:#795548}
+.cyan{color:#000;background-color:#00bcd4}
+.blue-grey{color:#fff;background-color:#607d8b}
+.light-green{color:#000;background-color:#8bc34a}
+.indigo{color:#fff;background-color:#3f51b5}
+.khaki{color:#000;background-color:#f0e68c}
+.lime{color:#000;background-color:#cddc39}
+.orange{color:#000;background-color:#ff9800}
+.deep-orange{color:#fff;background-color:#ff5722}
+.pink{color:#fff;background-color:#e91e63}
+.purple{color:#fff;background-color:#9c27b0}
+.deep-purple{color:#fff;background-color:#673ab7}
+.teal{color:#fff;background-color:#009688}
+.white{color:#000;background-color:#fff}
+.pale-red{color:#000;background-color:#ffdddd}
+.pale-green{color:#000;background-color:#ddffdd}
+.pale-yellow{color:#000;background-color:#ffffcc}
+.pale-blue{color:#000;background-color:#ddffff}
